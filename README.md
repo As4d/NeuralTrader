@@ -34,4 +34,4 @@ This trading bot is licensed under the MIT License. See the LICENSE file for mor
 
 ## Acknowledgements
 
-This trading bot was built using Python, Flask, and Microsoft Azure. I would like to thank the developers of these tools for their contributions to the open-source community.
+This trading bot was built using Python, Flask, and Microsoft Azure. I would like to thank the developers of these tools for their contributions to the open-source community
